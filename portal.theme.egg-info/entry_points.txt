@@ -1,0 +1,6 @@
+[paste.app_factory]
+static = portal.theme.app:make_static_serving_app
+
+[paste.filter_app_factory]
+deliverance = portal.theme.middleware:make_deliverance_middleware
+

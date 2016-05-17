@@ -1,0 +1,18 @@
+Metadata-Version: 1.1
+Name: portal.theme
+Version: 0.1
+Summary: Default theme for Bungeni Portal
+Home-page: UNKNOWN
+Author: Bungeni team
+Author-email: info@bungeni.org
+License: GPL
+Description: UNKNOWN
+Keywords: deliverance
+Platform: UNKNOWN
+Classifier: Environment :: Web Environment
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python
+Classifier: Natural Language :: English
+Classifier: Operating System :: OS Independent
+Classifier: Topic :: Internet :: WWW/HTTP
+Classifier: Framework :: Deliverance
